@@ -2,8 +2,8 @@ energy saved is energy generated
 
 class Hellogit{
 
-	main(){
-	 sysout("");
+	public static void main(String[] args){
+	 sysout("Hello git");
 	}
 
 }
