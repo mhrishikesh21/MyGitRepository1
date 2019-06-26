@@ -3,7 +3,7 @@ energy saved is energy generated
 class Hellogit{
 
 	public static void main(String[] args){
-	 sysout("Hello git");
+	 system.out.println("Hello git");
 	}
 
 }
