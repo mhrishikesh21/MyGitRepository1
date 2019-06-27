@@ -12,4 +12,9 @@ class Hellogit{
 	obj.hellogit();
 	}
 
+	void myBigmethod(){
+	
+	sysout("irgf");
+	}
+
 }
