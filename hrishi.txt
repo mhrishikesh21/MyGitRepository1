@@ -2,14 +2,14 @@ energy saved is energy generated
 
 class Hellogit{
 	
-	hellogit(){
-		sysout("hello git .... welcome");
+	void hellogit(){
+		system.out.println("hello git .... welcome");
 	}
-
-	
 
 	public static void main(String[] args){
 	 
+	Hellogit obj = new Hellogit();
+	obj.hellogit();
 	}
 
 }
